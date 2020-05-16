@@ -1,0 +1,11 @@
+C:\Users\enes.gur\Desktop\Memory_Cache_.NetCore\CacheSample\CacheSample.Business\bin\Debug\netcoreapp3.1\CacheSample.Business.deps.json
+C:\Users\enes.gur\Desktop\Memory_Cache_.NetCore\CacheSample\CacheSample.Business\bin\Debug\netcoreapp3.1\CacheSample.Business.dll
+C:\Users\enes.gur\Desktop\Memory_Cache_.NetCore\CacheSample\CacheSample.Business\bin\Debug\netcoreapp3.1\CacheSample.Business.pdb
+C:\Users\enes.gur\Desktop\Memory_Cache_.NetCore\CacheSample\CacheSample.Business\bin\Debug\netcoreapp3.1\CacheSample.Cache.dll
+C:\Users\enes.gur\Desktop\Memory_Cache_.NetCore\CacheSample\CacheSample.Business\bin\Debug\netcoreapp3.1\CacheSample.Cache.pdb
+C:\Users\enes.gur\Desktop\Memory_Cache_.NetCore\CacheSample\CacheSample.Business\obj\Debug\netcoreapp3.1\CacheSample.Business.csprojAssemblyReference.cache
+C:\Users\enes.gur\Desktop\Memory_Cache_.NetCore\CacheSample\CacheSample.Business\obj\Debug\netcoreapp3.1\CacheSample.Business.AssemblyInfoInputs.cache
+C:\Users\enes.gur\Desktop\Memory_Cache_.NetCore\CacheSample\CacheSample.Business\obj\Debug\netcoreapp3.1\CacheSample.Business.AssemblyInfo.cs
+C:\Users\enes.gur\Desktop\Memory_Cache_.NetCore\CacheSample\CacheSample.Business\obj\Debug\netcoreapp3.1\CacheSample.Business.csproj.CopyComplete
+C:\Users\enes.gur\Desktop\Memory_Cache_.NetCore\CacheSample\CacheSample.Business\obj\Debug\netcoreapp3.1\CacheSample.Business.dll
+C:\Users\enes.gur\Desktop\Memory_Cache_.NetCore\CacheSample\CacheSample.Business\obj\Debug\netcoreapp3.1\CacheSample.Business.pdb

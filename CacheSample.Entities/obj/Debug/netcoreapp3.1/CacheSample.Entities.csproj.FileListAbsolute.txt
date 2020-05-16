@@ -1,0 +1,8 @@
+C:\Users\enes.gur\Desktop\Memory_Cache_.NetCore\CacheSample\CacheSample.Entities\bin\Debug\netcoreapp3.1\CacheSample.Entities.deps.json
+C:\Users\enes.gur\Desktop\Memory_Cache_.NetCore\CacheSample\CacheSample.Entities\bin\Debug\netcoreapp3.1\CacheSample.Entities.dll
+C:\Users\enes.gur\Desktop\Memory_Cache_.NetCore\CacheSample\CacheSample.Entities\bin\Debug\netcoreapp3.1\CacheSample.Entities.pdb
+C:\Users\enes.gur\Desktop\Memory_Cache_.NetCore\CacheSample\CacheSample.Entities\obj\Debug\netcoreapp3.1\CacheSample.Entities.csprojAssemblyReference.cache
+C:\Users\enes.gur\Desktop\Memory_Cache_.NetCore\CacheSample\CacheSample.Entities\obj\Debug\netcoreapp3.1\CacheSample.Entities.AssemblyInfoInputs.cache
+C:\Users\enes.gur\Desktop\Memory_Cache_.NetCore\CacheSample\CacheSample.Entities\obj\Debug\netcoreapp3.1\CacheSample.Entities.AssemblyInfo.cs
+C:\Users\enes.gur\Desktop\Memory_Cache_.NetCore\CacheSample\CacheSample.Entities\obj\Debug\netcoreapp3.1\CacheSample.Entities.dll
+C:\Users\enes.gur\Desktop\Memory_Cache_.NetCore\CacheSample\CacheSample.Entities\obj\Debug\netcoreapp3.1\CacheSample.Entities.pdb
